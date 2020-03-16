@@ -1,6 +1,6 @@
 # docker-jikan 
 
-Requires docker`, `docker-compose`.
+Requires `docker`, `docker-compose`.
 
 Personal Jikan setup adapted from [JikanDockerized](https://github.com/zunjae/JikanDockerized)
 
