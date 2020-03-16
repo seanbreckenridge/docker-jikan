@@ -1,4 +1,4 @@
-# jikan 
+# docker-jikan 
 
 Requires docker`, `docker-compose`.
 
