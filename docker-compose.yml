@@ -1,7 +1,6 @@
 version: "3.4"
 
 services:
-
   jikan-rest-api:
     build:
       context: jikan
@@ -17,4 +16,3 @@ services:
   jikan-redis:
     image: redis
     restart: always
-
