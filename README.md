@@ -1,5 +1,7 @@
 # docker-jikan
 
+Use the [officially maintained repo instead](https://github.com/jikan-me/jikan-docker)
+
 Requires `docker`, `docker-compose`.
 
 Personal Jikan setup adapted from [JikanDockerized](https://github.com/zunjae/JikanDockerized)
